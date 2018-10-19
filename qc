@@ -239,3 +239,62 @@ https://opus.re/c8/ab2fe38e096bbe0a202bd7d7794e366eba5406ea/latrois-audio_1=1280
 https://opus.re/allfrtvstrm/tkn/newcrab/ZGHmAwHjAGH4AP0kAGZ2AGD4Zmt0YGt5AwZ4ZQSvMJV5MTDlBTWwMwp1ATR3Z2Z0L2AwLGqxYGL2LGOxZQD1ZGp3BJLmZwSyZGZ5AmR5ZQOuMQDkL2Lj/index.m3u8?id=406
 #EXTINF:-1 group-title="FRANCE" tvg-id="Canal +" tvg-logo="https://opus.re/img-p/3137cb6c3a1e85eafe70354a743f3960/img/canalplus.jpg", Canal +
 https://opus.re/allfrtvstrm/tkn/sap2/ZGHmAwHjAGH4AP0kAGZ2AGD4Zmt0YGt5AwZ4ZQSvMJV5MTDlBTWwMwp1ATR3Z2Z0L2AwLGqxYGL2LGOxZQD1ZGp3BJLmZwSyZGZ5AmR5ZQOuMQDkL2Lj/index.m3u8?id=1933
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Le déclin de l'empire américain
+http://46.166.142.196:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3VwdG9ib3guY29tL213YTI4b2lmZXQ3YQ==-0218.smil/chunklist_w1843045551_b3510633_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png", Les invasions barbares
+http://46.166.142.96:1935/debrideur/_definst_/debrid_script/smil:aHR0cHM6Ly95Z2d0b3JyZW50LmNvbS9lbmdpbmUvZG93bmxvYWRfdG9ycmVudD9pZD0zNDgzOXo=-0218.smil/chunklist_w1455915517_b3644100_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png", Le règne de la beauté
+http://46.166.139.28/mp4/aHR0cHM6Ly8xZmljaGllci5jb20vP2p2Zm1kOG94a2g=.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png", Gerry
+http://46.166.139.28/mp4/aHR0cDovL3d3dy50NDExLmFsL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MTkxNTg4.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Maurice Richard
+http://46.166.142.83:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmFpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MDA2MzY3-0218.smil/chunklist_w620859733_b3644100_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",La Florida
+http://46.166.142.196/mp4/aHR0cHM6Ly93dzIueWdndG9ycmVudC5pcy9lbmdpbmUvZG93bmxvYWRfdG9ycmVudD9pZD0xOTg3MjE=.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Les Boys
+http://46.166.142.200:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MDM1Mjg4-0218.smil/chunklist_w2027295703_b4707214_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",la forteresse suspendue
+http://46.166.142.200/mp4/aHR0cDovL3d3dy50NDExLmFsL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD0xMDIwMDY=.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Tom a la ferme
+http://46.166.142.95:1935/debrideur/_definst_/debrid_script/smil:aHR0cHM6Ly8xZmljaGllci5jb20vP3A3ajB0Z2p2MWI=-0218.smil/chunklist_w730713147_b2016995_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",J'ai tué ma mère
+http://46.166.139.28/mp4/aHR0cDovL3cyZ2M2NS4xZmljaGllci5jb20v.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Mommy
+https://1fhjlow.oloadcdn.net/dl/l/hSZcTkMbfmmGjqFN/wnbypDKBYl4/%29-%3DMommy+%282014%29+%5B1080p%5D+FRENCH+BluRay+x264-PopHD.m.mp4?mime=true
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Laurence Anyways
+https://www65.uptostream.com/l4604df57a/360/0/video.mp4
+
+#EXTINF:1,Les amours imaginaires
+http://46.166.142.92:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MDk1MDI1-0218.smil/chunklist_w1676602447_b3451885_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",5150 rue des ormes
+http://46.166.142.96/mp4/aHR0cDovL3VwdG9ib3guY29tL244ZmtudmhocXlkOQ==.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png", Les sept jours du talion
+http://46.166.142.95:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01MzMxNjQ5-0218.smil/chunklist_w856831588_b3781148_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",L'impasse du désir
+http://46.166.142.92/mp4/aHR0cDovL3JpeTFmbS4xZmljaGllci5jb20v.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png", l'âge des ténèbres
+http://46.166.142.92/mp4/aHR0cHM6Ly93dzQueWdndG9ycmVudC5pcy9lbmdpbmUvZG93bmxvYWRfdG9ycmVudD9pZD0yMTE3NDQ=.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Léolo
+http://46.166.139.28:1935/debrideur/_definst_/debrid_script/smil:aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01Mzc3ODk1-0218.smil/chunklist_w1869963291_b3284100_t64IEhEIFF1YWxpdHkg.m3u8
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Jésus de Montréal
+http://46.166.139.28/mp4/aHR0cDovL3d3dy50NDExLmxpL3RvcnJlbnRzL2Rvd25sb2FkLz9pZD01NjQwODk5.mp4
+
+#EXTINF:-1 group-title="FILMS QUEBEC" tvg-id="" tvg-logo="https://quebeccinema.ca/img/layout/logo.png",Les affamés
+https://real-debrid.com/streaming-Y3DDYC2QNTE4M34
