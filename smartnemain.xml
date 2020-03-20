@@ -136,7 +136,7 @@
 <channel>
        <name>[B][COLOR aqua]•[/COLOR] [COLORaqua]SMARTNET TV[COLOR white][B] USA [/COLOR]•[COLORgreen] 1[/COLOR][/B]</name>
        <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-       <link>https://raw.githubusercontent.com/aeros96/smartiptv/master/m3u/live_tv_us.m3u</link>
+       <link>https://github.com/aeros96/smartiptv/blob/master/m3u/live_tv_us.m3u</link>
        <fanart></fanart>
        <info>[B][COLORyellow]USA IPTV List 1[/COLOR][/B]</info>
 </channel>
