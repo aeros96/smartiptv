@@ -149,21 +149,37 @@
       	<info>[COLORyellow]France Streams[/COLOR]</info>
 </channel>
 
-<channel>
-      	<name>[B][COLOR aqua]•[/COLOR] [COLORaqua] SMARTNET TV [COLOR white] U.S.A[/COLOR][COLORaqua] •[/COLOR][/B]</name>
-      	<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-      	<externallink>https://aeros96.000webhostapp.com/build/uploadz/USA1.xml</externallink>
-      	<fanart></fanart>
-      	<info>[COLORyellow]UK Streams[/COLOR]</info>
-</channel>
+  <channel>
+       <name>[B][COLOR aqua]•[/COLOR][COLORgold]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B] CANADA[/COLOR][COLORgold]•[/COLOR][COLORaqua]•[/COLOR][/B]</name>
+       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+       <externallink>https://raw.githubusercontent.com/Shark5588/list/master/ca.xml</externallink>
+       <fanart></fanart>
+       <info>[B][COLORyellow]Canadiens IPTV List 1[/COLOR][/B]</info>
+  </channel>
 
-<channel>
-      	<name>[B][COLOR aqua]•[/COLOR] [COLORaqua] SMARTNET TV [COLOR white] UK[/COLOR] [COLORaqua] •[/COLOR][/B]</name>
-      	<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-      	<externallink>https://aeros96.000webhostapp.com/build/uploadz/UK_List.xml</externallink>
-      	<fanart></fanart>
-      	<info>[COLORyellow]UK Streams[/COLOR]</info>
-</channel>
+  <channel>
+	<name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua] SPORTS CLASSIC TV [COLOR white] FRANCE[/COLOR][COLORred] •[/COLOR][COLORaqua]•[/COLOR][/B]</name>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/fr.xml</externallink>
+	<fanart></fanart>
+	<info>[COLORyellow]France Streams[/COLOR]</info>
+  </channel>
+    
+  <channel>
+	<name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua] SPORTS CLASSIC TV [COLOR white] U.S.A[/COLOR][COLORred] •[/COLOR][COLORaqua]•[/COLOR][/B]</name>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/us.xml</externallink>
+	<fanart></fanart>
+	<info>[COLORyellow]UK Streams[/COLOR]</info>
+  </channel>
+
+  <channel>
+	<name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua] SPORTS CLASSIC TV [COLOR white] UK[/COLOR][COLORred]•[/COLOR][COLORaqua]•[/COLOR][/B]</name>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/uk.xml</externallink>
+	<fanart></fanart>
+	<info>[COLORyellow]UK Streams[/COLOR]</info>
+  </channel>
 
 <channel>
        <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B][I] Atom [COLOR red]•[/COLOR][COLORaqua]•[/COLOR][/I][/B]</name>
@@ -184,97 +200,63 @@
 
 ---------------------------------------------------------------------------------->
 <channel>
-      <name>[B][COLORorangered]- VOD Movies - [/COLOR][COLOR white]New Releases[/COLOR][/B]</name>
-      <thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
-      <externallink>http://www.shark55.com/ssports/Movies/MoviesNewRelease.xml</externallink>
+      <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLORlightseagreen]VOD Movies[/COLOR][B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][/B]</name>
+      <thumbnail>https://3.bp.blogspot.com/-IpVThipMVMU/Wd-my5Ul0oI/AAAAAAAACbo/m4b7izFN50wxYkUEr3WTs7e5J06bqVLAQCLcBGAs/s1600/flowRoot418g558.png</thumbnail>
+      <externallink>https://raw.githubusercontent.com/Shark5588/list/master/boxeng.xml</externallink>
       <fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
       <info>Movies New Release</info>
 </channel>
 
 <channel>
-      <name>[B][COLOR aqua]- Films Francais[/COLOR][/B]</name>
-      <thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
-      <externallink>http://www.shark55.com/ssports/Movies/MovieFrench.xml</externallink>
-      <fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-      <info>Movies New Release</info>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORlightseagreen] VOD BOX OFFICE FR [/COLOR][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][/B]</name>
+<thumbnail>https://3.bp.blogspot.com/-IpVThipMVMU/Wd-my5Ul0oI/AAAAAAAACbo/m4b7izFN50wxYkUEr3WTs7e5J06bqVLAQCLcBGAs/s1600/flowRoot418g558.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Shark5588/list/master/boxfr.xml</externallink>
+<fanart>http://celebzmagazine.com/wp-content/uploads/2018/01/box.jpg</fanart>
+<info>[B][COLORyellow]BoxOffice IPTV[/COLOR][/B]</info>
 </channel>
 
 <channel>
-      <name>[B][COLOR aqua]- Films Francais[/COLOR][/B]</name>
-      <thumbnail>http://www.shark55.com/thumbnail/SportsClassicThumbnail.png</thumbnail>
-      <externallink>http://www.shark55.com/ssports/Movies/MovieFrench3.xml</externallink>
-      <fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-      <info>Movies New Release</info>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORsnow] THE MAG[/COLOR][COLORpurple]Experience Max Quality[/COLOR][/B]</name>
+    <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
+    <externallink>https://pastebin.com/raw/XXCy2cGm</externallink>
+    <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
+    <content></content>ignorme
 </channel>
+    
+      <channel>
+       <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR purple][B][I]ADULT ONLY[/COLOR][/I][/B]</name>
+       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+       <externallink>https://raw.githubusercontent.com/Shark5588/list/master/ppp.xml</externallink>
+       <fanart></fanart>
+       <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
+  </channel>
 
-<-----------------------------------------------------------------------------
-<channel>
-      <name>[B][COLOR aqua]- VOD BOX OFFICE - [/COLOR][COLOR white]French[/COLOR][/B]</name>
-      <thumbnail>https://rogermooresmovienation.files.wordpress.com/2017/11/box.png?w=640</thumbnail>
-      <externallink>http://www.shark55.com/ssports/Movies/VOD%20BOX%20OFFICE%20FR.xml</externallink>
-      <fanart>http://celebzmagazine.com/wp-content/uploads/2018/01/box.jpg</fanart>
-      <info>[B][COLORyellow]BoxOffice IPTV[/COLOR][/B]</info>
-</channel>
 
+  <channel>
+       <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR purple][B][I]ADULT ONLY[/COLOR][/I][/B]</name>
+       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+       <externallink>https://pastebin.com/raw/52fLJVdg</externallink>
+       <fanart></fanart>
+       <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
+  </channel>
+  
+    <channel>
+       <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR purple][B][I]ADULT ONLY[/COLOR][/I][/B]</name>
+       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+       <externallink>https://raw.githubusercontent.com/Shark5588/wtf/master/afterhours.xml</externallink>
+       <fanart></fanart>
+       <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
+  </channel>
 
+  <channel>
+       <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR purple][B][I]Naked and Funny[/COLOR][/I][/B]</name>
+       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+       <externallink>https://raw.githubusercontent.com/Shark5588/list/master/AdultFunny.xml</externallink>
+       <fanart></fanart>
+       <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
+  </channel>
+    
 </channels>
-<!------------------------------
-<channel>
-    	<name>[B][COLORorange]- MOVIES - Chronos[/COLOR][/B]</name>
-    	<thumbnail>http://4.bp.blogspot.com/-R5sOcauMoWI/VitofNnjkWI/AAAAAAAABeM/XSqpXTZvd58/s1600/sf.jpg</thumbnail>
-    	<externallink>https://aeros96.000webhostapp.com/build/uploadz/movies.txt</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
 
-<channel>
-    	<name>[B][COLORorange]- 24/7 MOVIES - MagicDragon[/COLOR][/B]</name>
-    	<thumbnail>http://4.bp.blogspot.com/-R5sOcauMoWI/VitofNnjkWI/AAAAAAAABeM/XSqpXTZvd58/s1600/sf.jpg</thumbnail>
-    	<externallink>https://aeros96.000webhostapp.com/build/uploadz/247movies.xml</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLORorange]- OPUS - FRENCH TV[/COLOR][/B]</name>
-    	<thumbnail>http://4.bp.blogspot.com/-R5sOcauMoWI/VitofNnjkWI/AAAAAAAABeM/XSqpXTZvd58/s1600/sf.jpg</thumbnail>
-    	<externallink>https://aeros96.000webhostapp.com/build/uploadz/1qc_fr.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLORorange]- OPUS - ENGLISH TV[/COLOR][/B]</name>
-    	<thumbnail>http://4.bp.blogspot.com/-R5sOcauMoWI/VitofNnjkWI/AAAAAAAABeM/XSqpXTZvd58/s1600/sf.jpg</thumbnail>
-    	<externallink>https://aeros96.000webhostapp.com/build/uploadz/1qc_en.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-
-<!------------------------------
-<channel>
-<name>[COLOR purple]-[/COLOR][COLORlightseagreen]---------[/COLOR][COLOR purple]-[/COLOR][/B]</name>
-<thumbnail>http://www.shark55.com/thumbnail/icon(6).png</thumbnail>
-<externallink>http://www.shark55.com/ssports/Movies/MoviesM3u.xml</externallink>
-<fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-<info>Movies New Release</info>
-</channel>
-
-<channel>
-    <name>[B][I]####[COLOR chartreuse] IPTV PlayList (Test) [/COLOR]####[/I][/B]</name>
-    <thumbnail></thumbnail>
-    <externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/IPTVwold.xml</externallink>
-    <fanart></fanart>
-    <info></info>
-</channel>
-<!--
-<channel>
-    <name>[B][I]####[COLOR chartreuse] VivaList (Test) [/COLOR]####[/I][/B]</name>
-    <thumbnail></thumbnail>
-    <externallink>http://www.shark55.com/ssports/sportsnew/vivalist.xml</externallink>
-    <fanart></fanart>
-    <info></info>
-</channel>
 
 
