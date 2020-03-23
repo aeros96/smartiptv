@@ -14,54 +14,6 @@
 </channel>
 
 <channel>
-    	<name>[B][COLOR orangered]FRANCE[/COLOR][/B]</name>
-    	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/fr.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLOR orangered]ALGÉRIE[/COLOR][/B]</name>
-    	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/dz.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLOR orangered]MAROC[/COLOR][/B]</name>
-    	<thumbnail>https://www.worldatlas.com/r/w728-h425-c728x425/upload/8c/99/76/shutterstock-742638283.jpg</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ma.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLOR orangered]EGYPTE[/COLOR][/B]</name>
-    	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/eg.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLOR orangered]BELGIQUE[/COLOR][/B]</name>
-    	<thumbnail>https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/be.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
-    	<name>[B][COLOR orangered]CANADA-QC[/COLOR][/B]</name>
-    	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
-    	<externallink>https://raw.githubusercontent.com/Tempest0580/xml/master/foreign_channels/ca.m3u</externallink>
-    	<fanart></fanart>
-    	<content></content>
-</channel>
-
-<channel>
     	<name>[B][COLORorange]- FLUXUS - IPTV[/COLOR][/B]</name>
     	<thumbnail>https://3.bp.blogspot.com/-DyYQANZ_Fqw/WZ3_DPejZ4I/AAAAAAAAA4M/L0lLQ8OfmhcQANdpMX2fDGhYR_RUqmk6wCLcBGAs/s400/FIPTVLaunch.png</thumbnail>
     	<externallink>https://bit.ly/FluxusTV-IPTV</externallink>
@@ -111,7 +63,7 @@
 
 <channel>
         <name>[B][COLORorange]- STRATUS - USA/CANADA TV[/COLOR][/B]</name>
-        <thumbnail>https://2.bp.blogspot.com/-dmh522gruT8/W1KZ86AruQI/AAAAAAAADhY/zGYXq1VXPBkqMiL6lpGTG8bzIoSXMeTIQCLcBGAs/s320/gettyimages-688899881-1519413300.jpg</thumbnail>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
         <externallink>https://bit.ly/stv-us</externallink>
         <fanart></fanart>
         <content></content>
@@ -119,7 +71,7 @@
 
 <channel>
         <name>[B][COLORorange]- STRATUS - TV ARABIC[/COLOR][/B]</name>
-        <thumbnail>https://2.bp.blogspot.com/-l6Lh02j_4u4/W1k-fuH0YTI/AAAAAAAADjk/k3szBKuzg488_o0H9hxBlrU-vnp9AQUAgCLcBGAs/s320/b7abf1ff9ee60fb95a6b25ceafbcd236.jpg</thumbnail>
+        <thumbnail>https://www.worldatlas.com/r/w728-h425-c728x425/upload/8c/99/76/shutterstock-742638283.jpg</thumbnail>
         <externallink>https://bit.ly/stv-ar</externallink> 
         <fanart></fanart>
         <content></content>
@@ -127,7 +79,7 @@
 
 <channel>
        <name>[B][COLOR aqua]•[/COLOR] [COLORaqua]SMARTNET TV[COLOR white][B] Canadian [/COLOR]•[COLORgreen] 1[/COLOR][/B]</name>
-       <thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
+       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
        <externallink>https://raw.githubusercontent.com/aeros96/smartiptv/master/m3u/live_tv_ca.m3u</externallink>
        <fanart></fanart>
        <info>[B][COLORyellow]Canadiens IPTV[/COLOR][/B]</info>
