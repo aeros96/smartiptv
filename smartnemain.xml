@@ -167,7 +167,8 @@
 <info>[B][COLORyellow]BoxOffice IPTV[/COLOR][/B]</info>
 </channel>
 
-<channel>
+<!------------------------------
+	<channel>
     <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORsnow] THE MAG[/COLOR][COLORpurple]Experience Max Quality[/COLOR][/B]</name>
     <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
     <externallink>https://pastebin.com/raw/XXCy2cGm</externallink>
@@ -207,6 +208,7 @@
        <fanart></fanart>
        <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
   </channel>
+<!------------------------------
     
 </channels>
 
